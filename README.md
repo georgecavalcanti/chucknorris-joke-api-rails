@@ -6,9 +6,6 @@ This file will inform about how run this API locally.
 
 You need: Docker, Docker-compose, installed in your machine.
 
-## File `.env`
-The file needs to be created but may be empty.
-
 ## Start Conteiner
 ```
 docker-compose up
